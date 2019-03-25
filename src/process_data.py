@@ -5,7 +5,7 @@ lis = []
 pattern = re.compile(r'.*-(.*)\+.*')
 start_time = datetime.date(2019,1,1)
 
-csv_fp = open('my.csv','wt')
+csv_fp = open('phonemes.csv','wt')
 csv_fp.write('name,type,value,date\n')
 
 with open('debug_way3.log') as fp:
@@ -24,7 +24,7 @@ with open('debug_way3.log') as fp:
 				assert(len(line)==3)
 				line[0] = line[0].rstrip()
 				phoneme = re.sub(pattern,'\\1',line[0])
-				csv_fp.write('%s,%s,%s,%s\n' % (line[0], '', int(line[2]), date_now.strftime("%Y-%m-%d")))
+				csv_fp.write('%s,%s,%s,%s\n' % (line[0], phoneme, int(line[2]), date_now.strftime("%Y-%m-%d")))
 			start_time = date_now
 			fp.readline()
 
