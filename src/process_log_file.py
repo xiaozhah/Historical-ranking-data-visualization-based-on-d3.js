@@ -10,7 +10,7 @@ csv_fp.write('name,type,value,date\n')
 
 with open('debug_way3.log') as fp:
 	fp.readline()
-	for i in range(90):
+	for i in range(180):
 		if i % 20 != 0:
 			fp.readline()
 			for i in range(10):
