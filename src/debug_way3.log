@@ -1,0 +1,1141 @@
+triphone	desired number	missing number
+step: 0
+C0n-C0ian+sp      	1187	928 
+C0i-C0j+C0iou     	1025	828 
+C0er-C0l+C0ing    	764 	746 
+C0l-C0ing+C0i     	490 	443 
+C0iou-C0n+C0ian   	491 	437 
+C0l-C0ing+C0l     	456 	410 
+C0i-C0n+C0ian     	540 	401 
+sil-C0i+C0j       	482 	390 
+C0ing-C0l+C0ing   	411 	361 
+sil-C0er+C0l      	345 	338 
+
+step: 1
+C0n-C0ian+sp      	1187	928 
+C0i-C0j+C0iou     	1025	828 
+C0er-C0l+C0ing    	764 	746 
+C0l-C0ing+C0i     	490 	443 
+C0iou-C0n+C0ian   	491 	437 
+C0l-C0ing+C0l     	456 	410 
+C0i-C0n+C0ian     	540 	401 
+sil-C0i+C0j       	482 	390 
+C0ing-C0l+C0ing   	411 	361 
+sil-C0er+C0l      	345 	338 
+
+step: 2
+C0n-C0ian+sp      	1187	928 
+C0i-C0j+C0iou     	1025	827 
+C0er-C0l+C0ing    	764 	745 
+C0l-C0ing+C0i     	490 	442 
+C0iou-C0n+C0ian   	491 	437 
+C0l-C0ing+C0l     	456 	410 
+C0i-C0n+C0ian     	540 	401 
+sil-C0i+C0j       	482 	390 
+C0ing-C0l+C0ing   	411 	361 
+sil-C0er+C0l      	345 	338 
+
+step: 3
+C0n-C0ian+sp      	1187	928 
+C0i-C0j+C0iou     	1025	827 
+C0er-C0l+C0ing    	764 	744 
+C0l-C0ing+C0i     	490 	441 
+C0iou-C0n+C0ian   	491 	437 
+C0l-C0ing+C0l     	456 	410 
+C0i-C0n+C0ian     	540 	401 
+sil-C0i+C0j       	482 	390 
+C0ing-C0l+C0ing   	411 	361 
+sil-C0er+C0l      	345 	338 
+
+step: 4
+C0n-C0ian+sp      	1187	928 
+C0i-C0j+C0iou     	1025	827 
+C0er-C0l+C0ing    	764 	743 
+C0l-C0ing+C0i     	490 	440 
+C0iou-C0n+C0ian   	491 	437 
+C0l-C0ing+C0l     	456 	410 
+C0i-C0n+C0ian     	540 	401 
+sil-C0i+C0j       	482 	390 
+C0ing-C0l+C0ing   	411 	361 
+sil-C0er+C0l      	345 	338 
+
+step: 5
+C0n-C0ian+sp      	1187	928 
+C0i-C0j+C0iou     	1025	827 
+C0er-C0l+C0ing    	764 	742 
+C0l-C0ing+C0i     	490 	439 
+C0iou-C0n+C0ian   	491 	437 
+C0l-C0ing+C0l     	456 	410 
+C0i-C0n+C0ian     	540 	401 
+sil-C0i+C0j       	482 	390 
+C0ing-C0l+C0ing   	411 	361 
+sil-C0er+C0l      	345 	338 
+
+step: 6
+C0n-C0ian+sp      	1187	928 
+C0i-C0j+C0iou     	1025	827 
+C0er-C0l+C0ing    	764 	741 
+C0l-C0ing+C0i     	490 	439 
+C0iou-C0n+C0ian   	491 	437 
+C0l-C0ing+C0l     	456 	409 
+C0i-C0n+C0ian     	540 	401 
+sil-C0i+C0j       	482 	390 
+C0ing-C0l+C0ing   	411 	360 
+sil-C0er+C0l      	345 	338 
+
+step: 7
+C0n-C0ian+sp      	1187	928 
+C0i-C0j+C0iou     	1025	827 
+C0er-C0l+C0ing    	764 	740 
+C0l-C0ing+C0i     	490 	439 
+C0iou-C0n+C0ian   	491 	436 
+C0l-C0ing+C0l     	456 	408 
+C0i-C0n+C0ian     	540 	401 
+sil-C0i+C0j       	482 	390 
+C0ing-C0l+C0ing   	411 	359 
+sil-C0er+C0l      	345 	338 
+
+step: 8
+C0n-C0ian+sp      	1187	927 
+C0i-C0j+C0iou     	1025	827 
+C0er-C0l+C0ing    	764 	739 
+C0l-C0ing+C0i     	490 	438 
+C0iou-C0n+C0ian   	491 	436 
+C0l-C0ing+C0l     	456 	408 
+C0i-C0n+C0ian     	540 	401 
+sil-C0i+C0j       	482 	390 
+C0ing-C0l+C0ing   	411 	359 
+sil-C0er+C0l      	345 	338 
+
+step: 9
+C0n-C0ian+sp      	1187	927 
+C0i-C0j+C0iou     	1025	827 
+C0er-C0l+C0ing    	764 	738 
+C0l-C0ing+C0i     	490 	438 
+C0iou-C0n+C0ian   	491 	436 
+C0l-C0ing+C0l     	456 	407 
+C0i-C0n+C0ian     	540 	400 
+sil-C0i+C0j       	482 	390 
+C0ing-C0l+C0ing   	411 	358 
+sil-C0er+C0l      	345 	338 
+
+step: 10
+C0n-C0ian+sp      	1187	927 
+C0i-C0j+C0iou     	1025	827 
+C0er-C0l+C0ing    	764 	737 
+C0l-C0ing+C0i     	490 	438 
+C0iou-C0n+C0ian   	491 	436 
+C0l-C0ing+C0l     	456 	406 
+C0i-C0n+C0ian     	540 	400 
+sil-C0i+C0j       	482 	390 
+C0ing-C0l+C0ing   	411 	357 
+sil-C0er+C0l      	345 	338 
+
+step: 11
+C0n-C0ian+sp      	1187	927 
+C0i-C0j+C0iou     	1025	827 
+C0er-C0l+C0ing    	764 	737 
+C0l-C0ing+C0i     	490 	438 
+C0iou-C0n+C0ian   	491 	436 
+C0l-C0ing+C0l     	456 	406 
+C0i-C0n+C0ian     	540 	400 
+sil-C0i+C0j       	482 	390 
+C0ing-C0l+C0ing   	411 	357 
+sil-C0er+C0l      	345 	338 
+
+step: 12
+C0n-C0ian+sp      	1187	926 
+C0i-C0j+C0iou     	1025	824 
+C0er-C0l+C0ing    	764 	737 
+C0l-C0ing+C0i     	490 	438 
+C0iou-C0n+C0ian   	491 	436 
+C0l-C0ing+C0l     	456 	406 
+C0i-C0n+C0ian     	540 	400 
+sil-C0i+C0j       	482 	390 
+C0ing-C0l+C0ing   	411 	357 
+sil-C0er+C0l      	345 	338 
+
+step: 13
+C0n-C0ian+sp      	1187	926 
+C0i-C0j+C0iou     	1025	824 
+C0er-C0l+C0ing    	764 	736 
+C0l-C0ing+C0i     	490 	437 
+C0iou-C0n+C0ian   	491 	436 
+C0l-C0ing+C0l     	456 	406 
+C0i-C0n+C0ian     	540 	400 
+sil-C0i+C0j       	482 	390 
+C0ing-C0l+C0ing   	411 	357 
+sil-C0er+C0l      	345 	338 
+
+step: 14
+C0n-C0ian+sp      	1187	926 
+C0i-C0j+C0iou     	1025	824 
+C0er-C0l+C0ing    	764 	735 
+C0iou-C0n+C0ian   	491 	436 
+C0l-C0ing+C0i     	490 	436 
+C0l-C0ing+C0l     	456 	406 
+C0i-C0n+C0ian     	540 	400 
+sil-C0i+C0j       	482 	390 
+C0ing-C0l+C0ing   	411 	357 
+sil-C0er+C0l      	345 	338 
+
+step: 15
+C0n-C0ian+sp      	1187	926 
+C0i-C0j+C0iou     	1025	824 
+C0er-C0l+C0ing    	764 	735 
+C0iou-C0n+C0ian   	491 	436 
+C0l-C0ing+C0i     	490 	436 
+C0l-C0ing+C0l     	456 	406 
+C0i-C0n+C0ian     	540 	400 
+sil-C0i+C0j       	482 	390 
+C0ing-C0l+C0ing   	411 	357 
+sil-C0er+C0l      	345 	338 
+
+step: 16
+C0n-C0ian+sp      	1187	925 
+C0i-C0j+C0iou     	1025	823 
+C0er-C0l+C0ing    	764 	734 
+C0iou-C0n+C0ian   	491 	436 
+C0l-C0ing+C0i     	490 	435 
+C0l-C0ing+C0l     	456 	406 
+C0i-C0n+C0ian     	540 	399 
+sil-C0i+C0j       	482 	390 
+C0ing-C0l+C0ing   	411 	357 
+sil-C0er+C0l      	345 	338 
+
+step: 17
+C0n-C0ian+sp      	1187	924 
+C0i-C0j+C0iou     	1025	823 
+C0er-C0l+C0ing    	764 	733 
+C0iou-C0n+C0ian   	491 	435 
+C0l-C0ing+C0i     	490 	435 
+C0l-C0ing+C0l     	456 	404 
+C0i-C0n+C0ian     	540 	399 
+sil-C0i+C0j       	482 	390 
+C0ing-C0l+C0ing   	411 	356 
+sil-C0er+C0l      	345 	338 
+
+step: 18
+C0n-C0ian+sp      	1187	924 
+C0i-C0j+C0iou     	1025	822 
+C0er-C0l+C0ing    	764 	733 
+C0iou-C0n+C0ian   	491 	435 
+C0l-C0ing+C0i     	490 	435 
+C0l-C0ing+C0l     	456 	404 
+C0i-C0n+C0ian     	540 	399 
+sil-C0i+C0j       	482 	390 
+C0ing-C0l+C0ing   	411 	356 
+sil-C0er+C0l      	345 	338 
+
+step: 19
+C0n-C0ian+sp      	1187	924 
+C0i-C0j+C0iou     	1025	822 
+C0er-C0l+C0ing    	764 	733 
+C0iou-C0n+C0ian   	491 	435 
+C0l-C0ing+C0i     	490 	435 
+C0l-C0ing+C0l     	456 	404 
+C0i-C0n+C0ian     	540 	399 
+sil-C0i+C0j       	482 	390 
+C0ing-C0l+C0ing   	411 	356 
+sil-C0er+C0l      	345 	338 
+
+step: 20
+C0n-C0ian+sp      	1187	924 
+C0i-C0j+C0iou     	1025	822 
+C0er-C0l+C0ing    	764 	733 
+C0iou-C0n+C0ian   	491 	435 
+C0l-C0ing+C0i     	490 	435 
+C0l-C0ing+C0l     	456 	404 
+C0i-C0n+C0ian     	540 	399 
+sil-C0i+C0j       	482 	390 
+C0ing-C0l+C0ing   	411 	356 
+sil-C0er+C0l      	345 	338 
+
+step: 21
+C0n-C0ian+sp      	1187	924 
+C0i-C0j+C0iou     	1025	817 
+C0er-C0l+C0ing    	764 	733 
+C0l-C0ing+C0i     	490 	435 
+C0iou-C0n+C0ian   	491 	433 
+C0l-C0ing+C0l     	456 	404 
+C0i-C0n+C0ian     	540 	399 
+sil-C0i+C0j       	482 	389 
+C0ing-C0l+C0ing   	411 	356 
+sil-C0er+C0l      	345 	338 
+
+step: 22
+C0n-C0ian+sp      	1187	924 
+C0i-C0j+C0iou     	1025	817 
+C0er-C0l+C0ing    	764 	732 
+C0l-C0ing+C0i     	490 	434 
+C0iou-C0n+C0ian   	491 	433 
+C0l-C0ing+C0l     	456 	404 
+C0i-C0n+C0ian     	540 	398 
+sil-C0i+C0j       	482 	389 
+C0ing-C0l+C0ing   	411 	356 
+sil-C0er+C0l      	345 	338 
+
+step: 23
+C0n-C0ian+sp      	1187	924 
+C0i-C0j+C0iou     	1025	817 
+C0er-C0l+C0ing    	764 	731 
+C0l-C0ing+C0i     	490 	434 
+C0iou-C0n+C0ian   	491 	433 
+C0l-C0ing+C0l     	456 	403 
+C0i-C0n+C0ian     	540 	397 
+sil-C0i+C0j       	482 	389 
+C0ing-C0l+C0ing   	411 	355 
+sil-C0er+C0l      	345 	338 
+
+step: 24
+C0n-C0ian+sp      	1187	924 
+C0i-C0j+C0iou     	1025	817 
+C0er-C0l+C0ing    	764 	730 
+C0iou-C0n+C0ian   	491 	433 
+C0l-C0ing+C0i     	490 	433 
+C0l-C0ing+C0l     	456 	403 
+C0i-C0n+C0ian     	540 	396 
+sil-C0i+C0j       	482 	389 
+C0ing-C0l+C0ing   	411 	355 
+sil-C0er+C0l      	345 	338 
+
+step: 25
+C0n-C0ian+sp      	1187	924 
+C0i-C0j+C0iou     	1025	817 
+C0er-C0l+C0ing    	764 	729 
+C0iou-C0n+C0ian   	491 	432 
+C0l-C0ing+C0i     	490 	432 
+C0l-C0ing+C0l     	456 	403 
+C0i-C0n+C0ian     	540 	396 
+sil-C0i+C0j       	482 	389 
+C0ing-C0l+C0ing   	411 	355 
+sil-C0er+C0l      	345 	338 
+
+step: 26
+C0n-C0ian+sp      	1187	924 
+C0i-C0j+C0iou     	1025	817 
+C0er-C0l+C0ing    	764 	728 
+C0iou-C0n+C0ian   	491 	432 
+C0l-C0ing+C0i     	490 	432 
+C0l-C0ing+C0l     	456 	401 
+C0i-C0n+C0ian     	540 	396 
+sil-C0i+C0j       	482 	389 
+C0ing-C0l+C0ing   	411 	354 
+sil-C0er+C0l      	345 	338 
+
+step: 27
+C0n-C0ian+sp      	1187	924 
+C0i-C0j+C0iou     	1025	817 
+C0er-C0l+C0ing    	764 	728 
+C0iou-C0n+C0ian   	491 	432 
+C0l-C0ing+C0i     	490 	432 
+C0l-C0ing+C0l     	456 	400 
+C0i-C0n+C0ian     	540 	396 
+sil-C0i+C0j       	482 	389 
+C0ing-C0l+C0ing   	411 	354 
+sil-C0er+C0l      	345 	338 
+
+step: 28
+C0n-C0ian+sp      	1187	923 
+C0i-C0j+C0iou     	1025	817 
+C0er-C0l+C0ing    	764 	726 
+C0iou-C0n+C0ian   	491 	432 
+C0l-C0ing+C0i     	490 	431 
+C0l-C0ing+C0l     	456 	399 
+C0i-C0n+C0ian     	540 	395 
+sil-C0i+C0j       	482 	389 
+C0ing-C0l+C0ing   	411 	353 
+sil-C0er+C0l      	345 	338 
+
+step: 29
+C0n-C0ian+sp      	1187	923 
+C0i-C0j+C0iou     	1025	817 
+C0er-C0l+C0ing    	764 	725 
+C0iou-C0n+C0ian   	491 	431 
+C0l-C0ing+C0i     	490 	430 
+C0l-C0ing+C0l     	456 	398 
+C0i-C0n+C0ian     	540 	395 
+sil-C0i+C0j       	482 	389 
+C0ing-C0l+C0ing   	411 	352 
+sil-C0er+C0l      	345 	338 
+
+step: 30
+C0n-C0ian+sp      	1187	921 
+C0i-C0j+C0iou     	1025	813 
+C0er-C0l+C0ing    	764 	725 
+C0iou-C0n+C0ian   	491 	430 
+C0l-C0ing+C0i     	490 	430 
+C0l-C0ing+C0l     	456 	398 
+C0i-C0n+C0ian     	540 	394 
+sil-C0i+C0j       	482 	388 
+C0ing-C0l+C0ing   	411 	352 
+sil-C0er+C0l      	345 	338 
+
+step: 31
+C0n-C0ian+sp      	1187	921 
+C0i-C0j+C0iou     	1025	813 
+C0er-C0l+C0ing    	764 	725 
+C0iou-C0n+C0ian   	491 	430 
+C0l-C0ing+C0i     	490 	430 
+C0l-C0ing+C0l     	456 	398 
+C0i-C0n+C0ian     	540 	394 
+sil-C0i+C0j       	482 	388 
+C0ing-C0l+C0ing   	411 	352 
+sil-C0er+C0l      	345 	338 
+
+step: 32
+C0n-C0ian+sp      	1187	921 
+C0i-C0j+C0iou     	1025	813 
+C0er-C0l+C0ing    	764 	724 
+C0iou-C0n+C0ian   	491 	430 
+C0l-C0ing+C0i     	490 	430 
+C0l-C0ing+C0l     	456 	397 
+C0i-C0n+C0ian     	540 	393 
+sil-C0i+C0j       	482 	388 
+C0ing-C0l+C0ing   	411 	351 
+sil-C0er+C0l      	345 	338 
+
+step: 33
+C0n-C0ian+sp      	1187	921 
+C0i-C0j+C0iou     	1025	812 
+C0er-C0l+C0ing    	764 	723 
+C0iou-C0n+C0ian   	491 	430 
+C0l-C0ing+C0i     	490 	430 
+C0l-C0ing+C0l     	456 	396 
+C0i-C0n+C0ian     	540 	392 
+sil-C0i+C0j       	482 	388 
+C0ing-C0l+C0ing   	411 	350 
+sil-C0er+C0l      	345 	338 
+
+step: 34
+C0n-C0ian+sp      	1187	921 
+C0i-C0j+C0iou     	1025	810 
+C0er-C0l+C0ing    	764 	723 
+C0iou-C0n+C0ian   	491 	430 
+C0l-C0ing+C0i     	490 	430 
+C0l-C0ing+C0l     	456 	396 
+C0i-C0n+C0ian     	540 	392 
+sil-C0i+C0j       	482 	387 
+C0ing-C0l+C0ing   	411 	350 
+sil-C0er+C0l      	345 	338 
+
+step: 35
+C0n-C0ian+sp      	1187	921 
+C0i-C0j+C0iou     	1025	810 
+C0er-C0l+C0ing    	764 	722 
+C0l-C0ing+C0i     	490 	430 
+C0iou-C0n+C0ian   	491 	429 
+C0l-C0ing+C0l     	456 	395 
+C0i-C0n+C0ian     	540 	392 
+sil-C0i+C0j       	482 	387 
+C0ing-C0l+C0ing   	411 	349 
+sil-C0er+C0l      	345 	338 
+
+step: 36
+C0n-C0ian+sp      	1187	921 
+C0i-C0j+C0iou     	1025	810 
+C0er-C0l+C0ing    	764 	721 
+C0iou-C0n+C0ian   	491 	429 
+C0l-C0ing+C0i     	490 	429 
+C0l-C0ing+C0l     	456 	395 
+C0i-C0n+C0ian     	540 	391 
+sil-C0i+C0j       	482 	387 
+C0ing-C0l+C0ing   	411 	349 
+sil-C0er+C0l      	345 	338 
+
+step: 37
+C0n-C0ian+sp      	1187	921 
+C0i-C0j+C0iou     	1025	810 
+C0er-C0l+C0ing    	764 	720 
+C0iou-C0n+C0ian   	491 	429 
+C0l-C0ing+C0i     	490 	428 
+C0l-C0ing+C0l     	456 	395 
+C0i-C0n+C0ian     	540 	391 
+sil-C0i+C0j       	482 	387 
+C0ing-C0l+C0ing   	411 	349 
+sil-C0er+C0l      	345 	338 
+
+step: 38
+C0n-C0ian+sp      	1187	921 
+C0i-C0j+C0iou     	1025	810 
+C0er-C0l+C0ing    	764 	719 
+C0iou-C0n+C0ian   	491 	429 
+C0l-C0ing+C0i     	490 	428 
+C0l-C0ing+C0l     	456 	394 
+C0i-C0n+C0ian     	540 	390 
+sil-C0i+C0j       	482 	387 
+C0ing-C0l+C0ing   	411 	348 
+sil-C0er+C0l      	345 	338 
+
+step: 39
+C0n-C0ian+sp      	1187	921 
+C0i-C0j+C0iou     	1025	810 
+C0er-C0l+C0ing    	764 	718 
+C0iou-C0n+C0ian   	491 	428 
+C0l-C0ing+C0i     	490 	428 
+C0l-C0ing+C0l     	456 	392 
+C0i-C0n+C0ian     	540 	390 
+sil-C0i+C0j       	482 	387 
+C0ing-C0l+C0ing   	411 	347 
+sil-C0er+C0l      	345 	338 
+
+step: 40
+C0n-C0ian+sp      	1187	921 
+C0i-C0j+C0iou     	1025	810 
+C0er-C0l+C0ing    	764 	718 
+C0iou-C0n+C0ian   	491 	428 
+C0l-C0ing+C0i     	490 	428 
+C0l-C0ing+C0l     	456 	392 
+C0i-C0n+C0ian     	540 	390 
+sil-C0i+C0j       	482 	387 
+C0ing-C0l+C0ing   	411 	347 
+sil-C0er+C0l      	345 	338 
+
+step: 41
+C0n-C0ian+sp      	1187	921 
+C0i-C0j+C0iou     	1025	810 
+C0er-C0l+C0ing    	764 	717 
+C0iou-C0n+C0ian   	491 	428 
+C0l-C0ing+C0i     	490 	428 
+C0l-C0ing+C0l     	456 	391 
+C0i-C0n+C0ian     	540 	390 
+sil-C0i+C0j       	482 	387 
+C0ing-C0l+C0ing   	411 	346 
+sil-C0er+C0l      	345 	338 
+
+step: 42
+C0n-C0ian+sp      	1187	921 
+C0i-C0j+C0iou     	1025	810 
+C0er-C0l+C0ing    	764 	715 
+C0iou-C0n+C0ian   	491 	428 
+C0l-C0ing+C0i     	490 	426 
+C0l-C0ing+C0l     	456 	391 
+C0i-C0n+C0ian     	540 	390 
+sil-C0i+C0j       	482 	387 
+C0ing-C0l+C0ing   	411 	346 
+sil-C0er+C0l      	345 	338 
+
+step: 43
+C0n-C0ian+sp      	1187	921 
+C0i-C0j+C0iou     	1025	808 
+C0er-C0l+C0ing    	764 	715 
+C0iou-C0n+C0ian   	491 	428 
+C0l-C0ing+C0i     	490 	426 
+C0l-C0ing+C0l     	456 	391 
+C0i-C0n+C0ian     	540 	390 
+sil-C0i+C0j       	482 	387 
+C0ing-C0l+C0ing   	411 	346 
+sil-C0er+C0l      	345 	338 
+
+step: 44
+C0n-C0ian+sp      	1187	920 
+C0i-C0j+C0iou     	1025	806 
+C0er-C0l+C0ing    	764 	713 
+C0iou-C0n+C0ian   	491 	428 
+C0l-C0ing+C0i     	490 	426 
+C0i-C0n+C0ian     	540 	389 
+C0l-C0ing+C0l     	456 	388 
+sil-C0i+C0j       	482 	387 
+C0ing-C0l+C0ing   	411 	343 
+sil-C0er+C0l      	345 	338 
+
+step: 45
+C0n-C0ian+sp      	1187	920 
+C0i-C0j+C0iou     	1025	806 
+C0er-C0l+C0ing    	764 	712 
+C0iou-C0n+C0ian   	491 	428 
+C0l-C0ing+C0i     	490 	425 
+C0i-C0n+C0ian     	540 	389 
+C0l-C0ing+C0l     	456 	388 
+sil-C0i+C0j       	482 	387 
+C0ing-C0l+C0ing   	411 	343 
+sil-C0er+C0l      	345 	338 
+
+step: 46
+C0n-C0ian+sp      	1187	920 
+C0i-C0j+C0iou     	1025	806 
+C0er-C0l+C0ing    	764 	712 
+C0iou-C0n+C0ian   	491 	428 
+C0l-C0ing+C0i     	490 	425 
+C0i-C0n+C0ian     	540 	389 
+C0l-C0ing+C0l     	456 	388 
+sil-C0i+C0j       	482 	387 
+C0ing-C0l+C0ing   	411 	343 
+sil-C0er+C0l      	345 	338 
+
+step: 47
+C0n-C0ian+sp      	1187	920 
+C0i-C0j+C0iou     	1025	804 
+C0er-C0l+C0ing    	764 	711 
+C0iou-C0n+C0ian   	491 	428 
+C0l-C0ing+C0i     	490 	425 
+C0i-C0n+C0ian     	540 	389 
+sil-C0i+C0j       	482 	386 
+C0l-C0ing+C0l     	456 	386 
+C0ing-C0l+C0ing   	411 	341 
+sil-C0er+C0l      	345 	338 
+
+step: 48
+C0n-C0ian+sp      	1187	920 
+C0i-C0j+C0iou     	1025	804 
+C0er-C0l+C0ing    	764 	711 
+C0iou-C0n+C0ian   	491 	428 
+C0l-C0ing+C0i     	490 	425 
+C0i-C0n+C0ian     	540 	389 
+sil-C0i+C0j       	482 	386 
+C0l-C0ing+C0l     	456 	386 
+C0ing-C0l+C0ing   	411 	341 
+sil-C0er+C0l      	345 	338 
+
+step: 49
+C0n-C0ian+sp      	1187	917 
+C0i-C0j+C0iou     	1025	802 
+C0er-C0l+C0ing    	764 	711 
+C0iou-C0n+C0ian   	491 	428 
+C0l-C0ing+C0i     	490 	425 
+C0i-C0n+C0ian     	540 	389 
+sil-C0i+C0j       	482 	386 
+C0l-C0ing+C0l     	456 	386 
+C0ing-C0l+C0ing   	411 	341 
+sil-C0er+C0l      	345 	338 
+
+step: 50
+C0n-C0ian+sp      	1187	917 
+C0i-C0j+C0iou     	1025	802 
+C0er-C0l+C0ing    	764 	707 
+C0iou-C0n+C0ian   	491 	427 
+C0l-C0ing+C0i     	490 	422 
+C0i-C0n+C0ian     	540 	389 
+sil-C0i+C0j       	482 	386 
+C0l-C0ing+C0l     	456 	385 
+C0ing-C0l+C0ing   	411 	340 
+sil-C0er+C0l      	345 	337 
+
+step: 51
+C0n-C0ian+sp      	1187	917 
+C0i-C0j+C0iou     	1025	802 
+C0er-C0l+C0ing    	764 	706 
+C0iou-C0n+C0ian   	491 	427 
+C0l-C0ing+C0i     	490 	421 
+C0i-C0n+C0ian     	540 	388 
+sil-C0i+C0j       	482 	386 
+C0l-C0ing+C0l     	456 	385 
+C0ing-C0l+C0ing   	411 	340 
+sil-C0er+C0l      	345 	336 
+
+step: 52
+C0n-C0ian+sp      	1187	916 
+C0i-C0j+C0iou     	1025	801 
+C0er-C0l+C0ing    	764 	705 
+C0iou-C0n+C0ian   	491 	427 
+C0l-C0ing+C0i     	490 	420 
+C0i-C0n+C0ian     	540 	388 
+sil-C0i+C0j       	482 	386 
+C0l-C0ing+C0l     	456 	384 
+C0ing-C0l+C0ing   	411 	340 
+sil-C0er+C0l      	345 	336 
+
+step: 53
+C0n-C0ian+sp      	1187	913 
+C0i-C0j+C0iou     	1025	796 
+C0er-C0l+C0ing    	764 	704 
+C0iou-C0n+C0ian   	491 	425 
+C0l-C0ing+C0i     	490 	420 
+C0i-C0n+C0ian     	540 	388 
+sil-C0i+C0j       	482 	385 
+C0l-C0ing+C0l     	456 	383 
+C0ing-C0l+C0ing   	411 	339 
+sil-C0er+C0l      	345 	336 
+
+step: 54
+C0n-C0ian+sp      	1187	913 
+C0i-C0j+C0iou     	1025	796 
+C0er-C0l+C0ing    	764 	704 
+C0iou-C0n+C0ian   	491 	425 
+C0l-C0ing+C0i     	490 	420 
+C0i-C0n+C0ian     	540 	388 
+sil-C0i+C0j       	482 	385 
+C0l-C0ing+C0l     	456 	383 
+C0ing-C0l+C0ing   	411 	339 
+sil-C0er+C0l      	345 	336 
+
+step: 55
+C0n-C0ian+sp      	1187	913 
+C0i-C0j+C0iou     	1025	796 
+C0er-C0l+C0ing    	764 	703 
+C0iou-C0n+C0ian   	491 	425 
+C0l-C0ing+C0i     	490 	420 
+C0i-C0n+C0ian     	540 	388 
+sil-C0i+C0j       	482 	385 
+C0l-C0ing+C0l     	456 	382 
+C0ing-C0l+C0ing   	411 	338 
+sil-C0er+C0l      	345 	336 
+
+step: 56
+C0n-C0ian+sp      	1187	912 
+C0i-C0j+C0iou     	1025	796 
+C0er-C0l+C0ing    	764 	702 
+C0iou-C0n+C0ian   	491 	425 
+C0l-C0ing+C0i     	490 	420 
+C0i-C0n+C0ian     	540 	388 
+sil-C0i+C0j       	482 	385 
+C0l-C0ing+C0l     	456 	381 
+C0ing-C0l+C0ing   	411 	337 
+sil-C0er+C0l      	345 	336 
+
+step: 57
+C0n-C0ian+sp      	1187	911 
+C0i-C0j+C0iou     	1025	796 
+C0er-C0l+C0ing    	764 	701 
+C0iou-C0n+C0ian   	491 	425 
+C0l-C0ing+C0i     	490 	419 
+C0i-C0n+C0ian     	540 	387 
+sil-C0i+C0j       	482 	385 
+C0l-C0ing+C0l     	456 	381 
+C0ing-C0l+C0ing   	411 	337 
+sil-C0er+C0l      	345 	336 
+
+step: 58
+C0n-C0ian+sp      	1187	911 
+C0i-C0j+C0iou     	1025	796 
+C0er-C0l+C0ing    	764 	701 
+C0iou-C0n+C0ian   	491 	425 
+C0l-C0ing+C0i     	490 	419 
+C0i-C0n+C0ian     	540 	387 
+sil-C0i+C0j       	482 	385 
+C0l-C0ing+C0l     	456 	381 
+C0ing-C0l+C0ing   	411 	337 
+sil-C0er+C0l      	345 	336 
+
+step: 59
+C0n-C0ian+sp      	1187	911 
+C0i-C0j+C0iou     	1025	796 
+C0er-C0l+C0ing    	764 	701 
+C0iou-C0n+C0ian   	491 	425 
+C0l-C0ing+C0i     	490 	419 
+C0i-C0n+C0ian     	540 	387 
+sil-C0i+C0j       	482 	385 
+C0l-C0ing+C0l     	456 	381 
+C0ing-C0l+C0ing   	411 	337 
+sil-C0er+C0l      	345 	336 
+
+step: 60
+C0n-C0ian+sp      	1187	907 
+C0i-C0j+C0iou     	1025	788 
+C0er-C0l+C0ing    	764 	701 
+C0iou-C0n+C0ian   	491 	423 
+C0l-C0ing+C0i     	490 	419 
+C0i-C0n+C0ian     	540 	385 
+sil-C0i+C0j       	482 	384 
+C0l-C0ing+C0l     	456 	381 
+C0ing-C0l+C0ing   	411 	337 
+sil-C0er+C0l      	345 	336 
+
+step: 61
+C0n-C0ian+sp      	1187	907 
+C0i-C0j+C0iou     	1025	788 
+C0er-C0l+C0ing    	764 	700 
+C0iou-C0n+C0ian   	491 	423 
+C0l-C0ing+C0i     	490 	419 
+C0i-C0n+C0ian     	540 	384 
+sil-C0i+C0j       	482 	384 
+C0l-C0ing+C0l     	456 	380 
+C0ing-C0l+C0ing   	411 	336 
+sil-C0er+C0l      	345 	336 
+
+step: 62
+C0n-C0ian+sp      	1187	907 
+C0i-C0j+C0iou     	1025	788 
+C0er-C0l+C0ing    	764 	699 
+C0iou-C0n+C0ian   	491 	423 
+C0l-C0ing+C0i     	490 	419 
+C0i-C0n+C0ian     	540 	384 
+sil-C0i+C0j       	482 	384 
+C0l-C0ing+C0l     	456 	379 
+sil-C0er+C0l      	345 	336 
+C0ing-C0l+C0ing   	411 	335 
+
+step: 63
+C0n-C0ian+sp      	1187	907 
+C0i-C0j+C0iou     	1025	788 
+C0er-C0l+C0ing    	764 	699 
+C0iou-C0n+C0ian   	491 	423 
+C0l-C0ing+C0i     	490 	419 
+C0i-C0n+C0ian     	540 	384 
+sil-C0i+C0j       	482 	384 
+C0l-C0ing+C0l     	456 	379 
+sil-C0er+C0l      	345 	336 
+C0ing-C0l+C0ing   	411 	335 
+
+step: 64
+C0n-C0ian+sp      	1187	907 
+C0i-C0j+C0iou     	1025	787 
+C0er-C0l+C0ing    	764 	697 
+C0iou-C0n+C0ian   	491 	423 
+C0l-C0ing+C0i     	490 	418 
+sil-C0i+C0j       	482 	384 
+C0i-C0n+C0ian     	540 	383 
+C0l-C0ing+C0l     	456 	378 
+sil-C0er+C0l      	345 	336 
+C0ing-C0l+C0ing   	411 	334 
+
+step: 65
+C0n-C0ian+sp      	1187	907 
+C0i-C0j+C0iou     	1025	787 
+C0er-C0l+C0ing    	764 	696 
+C0iou-C0n+C0ian   	491 	422 
+C0l-C0ing+C0i     	490 	417 
+sil-C0i+C0j       	482 	384 
+C0i-C0n+C0ian     	540 	383 
+C0l-C0ing+C0l     	456 	378 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	334 
+
+step: 66
+C0n-C0ian+sp      	1187	907 
+C0i-C0j+C0iou     	1025	786 
+C0er-C0l+C0ing    	764 	695 
+C0iou-C0n+C0ian   	491 	421 
+C0l-C0ing+C0i     	490 	417 
+sil-C0i+C0j       	482 	384 
+C0i-C0n+C0ian     	540 	383 
+C0l-C0ing+C0l     	456 	377 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	333 
+
+step: 67
+C0n-C0ian+sp      	1187	907 
+C0i-C0j+C0iou     	1025	786 
+C0er-C0l+C0ing    	764 	694 
+C0iou-C0n+C0ian   	491 	421 
+C0l-C0ing+C0i     	490 	417 
+sil-C0i+C0j       	482 	384 
+C0i-C0n+C0ian     	540 	382 
+C0l-C0ing+C0l     	456 	376 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	332 
+
+step: 68
+C0n-C0ian+sp      	1187	907 
+C0i-C0j+C0iou     	1025	786 
+C0er-C0l+C0ing    	764 	694 
+C0iou-C0n+C0ian   	491 	421 
+C0l-C0ing+C0i     	490 	417 
+sil-C0i+C0j       	482 	384 
+C0i-C0n+C0ian     	540 	382 
+C0l-C0ing+C0l     	456 	375 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	332 
+
+step: 69
+C0n-C0ian+sp      	1187	907 
+C0i-C0j+C0iou     	1025	786 
+C0er-C0l+C0ing    	764 	694 
+C0iou-C0n+C0ian   	491 	421 
+C0l-C0ing+C0i     	490 	416 
+sil-C0i+C0j       	482 	384 
+C0i-C0n+C0ian     	540 	382 
+C0l-C0ing+C0l     	456 	375 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	332 
+
+step: 70
+C0n-C0ian+sp      	1187	907 
+C0i-C0j+C0iou     	1025	784 
+C0er-C0l+C0ing    	764 	694 
+C0iou-C0n+C0ian   	491 	421 
+C0l-C0ing+C0i     	490 	416 
+sil-C0i+C0j       	482 	384 
+C0i-C0n+C0ian     	540 	382 
+C0l-C0ing+C0l     	456 	374 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	331 
+
+step: 71
+C0n-C0ian+sp      	1187	907 
+C0i-C0j+C0iou     	1025	784 
+C0er-C0l+C0ing    	764 	693 
+C0iou-C0n+C0ian   	491 	421 
+C0l-C0ing+C0i     	490 	416 
+sil-C0i+C0j       	482 	384 
+C0i-C0n+C0ian     	540 	381 
+C0l-C0ing+C0l     	456 	373 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	330 
+
+step: 72
+C0n-C0ian+sp      	1187	907 
+C0i-C0j+C0iou     	1025	783 
+C0er-C0l+C0ing    	764 	693 
+C0iou-C0n+C0ian   	491 	420 
+C0l-C0ing+C0i     	490 	416 
+sil-C0i+C0j       	482 	383 
+C0i-C0n+C0ian     	540 	381 
+C0l-C0ing+C0l     	456 	373 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	330 
+
+step: 73
+C0n-C0ian+sp      	1187	907 
+C0i-C0j+C0iou     	1025	782 
+C0er-C0l+C0ing    	764 	693 
+C0iou-C0n+C0ian   	491 	420 
+C0l-C0ing+C0i     	490 	416 
+sil-C0i+C0j       	482 	382 
+C0i-C0n+C0ian     	540 	380 
+C0l-C0ing+C0l     	456 	373 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	330 
+
+step: 74
+C0n-C0ian+sp      	1187	907 
+C0i-C0j+C0iou     	1025	782 
+C0er-C0l+C0ing    	764 	693 
+C0iou-C0n+C0ian   	491 	420 
+C0l-C0ing+C0i     	490 	415 
+sil-C0i+C0j       	482 	382 
+C0i-C0n+C0ian     	540 	380 
+C0l-C0ing+C0l     	456 	373 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	330 
+
+step: 75
+C0n-C0ian+sp      	1187	907 
+C0i-C0j+C0iou     	1025	782 
+C0er-C0l+C0ing    	764 	692 
+C0iou-C0n+C0ian   	491 	420 
+C0l-C0ing+C0i     	490 	414 
+sil-C0i+C0j       	482 	382 
+C0i-C0n+C0ian     	540 	379 
+C0l-C0ing+C0l     	456 	373 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	330 
+
+step: 76
+C0n-C0ian+sp      	1187	907 
+C0i-C0j+C0iou     	1025	782 
+C0er-C0l+C0ing    	764 	692 
+C0iou-C0n+C0ian   	491 	420 
+C0l-C0ing+C0i     	490 	414 
+sil-C0i+C0j       	482 	382 
+C0i-C0n+C0ian     	540 	379 
+C0l-C0ing+C0l     	456 	373 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	330 
+
+step: 77
+C0n-C0ian+sp      	1187	907 
+C0i-C0j+C0iou     	1025	782 
+C0er-C0l+C0ing    	764 	692 
+C0iou-C0n+C0ian   	491 	420 
+C0l-C0ing+C0i     	490 	414 
+sil-C0i+C0j       	482 	382 
+C0i-C0n+C0ian     	540 	379 
+C0l-C0ing+C0l     	456 	373 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	330 
+
+step: 78
+C0n-C0ian+sp      	1187	907 
+C0i-C0j+C0iou     	1025	782 
+C0er-C0l+C0ing    	764 	691 
+C0iou-C0n+C0ian   	491 	420 
+C0l-C0ing+C0i     	490 	414 
+sil-C0i+C0j       	482 	382 
+C0i-C0n+C0ian     	540 	379 
+C0l-C0ing+C0l     	456 	372 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	329 
+
+step: 79
+C0n-C0ian+sp      	1187	907 
+C0i-C0j+C0iou     	1025	782 
+C0er-C0l+C0ing    	764 	691 
+C0iou-C0n+C0ian   	491 	420 
+C0l-C0ing+C0i     	490 	414 
+sil-C0i+C0j       	482 	382 
+C0i-C0n+C0ian     	540 	379 
+C0l-C0ing+C0l     	456 	372 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	329 
+
+step: 80
+C0n-C0ian+sp      	1187	905 
+C0i-C0j+C0iou     	1025	779 
+C0er-C0l+C0ing    	764 	690 
+C0iou-C0n+C0ian   	491 	420 
+C0l-C0ing+C0i     	490 	414 
+sil-C0i+C0j       	482 	382 
+C0i-C0n+C0ian     	540 	378 
+C0l-C0ing+C0l     	456 	371 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	328 
+
+step: 81
+C0n-C0ian+sp      	1187	905 
+C0i-C0j+C0iou     	1025	779 
+C0er-C0l+C0ing    	764 	689 
+C0iou-C0n+C0ian   	491 	420 
+C0l-C0ing+C0i     	490 	413 
+sil-C0i+C0j       	482 	382 
+C0i-C0n+C0ian     	540 	377 
+C0l-C0ing+C0l     	456 	371 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	328 
+
+step: 82
+C0n-C0ian+sp      	1187	905 
+C0i-C0j+C0iou     	1025	778 
+C0er-C0l+C0ing    	764 	689 
+C0iou-C0n+C0ian   	491 	419 
+C0l-C0ing+C0i     	490 	413 
+sil-C0i+C0j       	482 	381 
+C0i-C0n+C0ian     	540 	377 
+C0l-C0ing+C0l     	456 	371 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	328 
+
+step: 83
+C0n-C0ian+sp      	1187	905 
+C0i-C0j+C0iou     	1025	777 
+C0er-C0l+C0ing    	764 	689 
+C0iou-C0n+C0ian   	491 	419 
+C0l-C0ing+C0i     	490 	413 
+sil-C0i+C0j       	482 	380 
+C0i-C0n+C0ian     	540 	376 
+C0l-C0ing+C0l     	456 	371 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	328 
+
+step: 84
+C0n-C0ian+sp      	1187	905 
+C0i-C0j+C0iou     	1025	777 
+C0er-C0l+C0ing    	764 	688 
+C0iou-C0n+C0ian   	491 	418 
+C0l-C0ing+C0i     	490 	413 
+sil-C0i+C0j       	482 	380 
+C0i-C0n+C0ian     	540 	376 
+C0l-C0ing+C0l     	456 	370 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	327 
+
+step: 85
+C0n-C0ian+sp      	1187	905 
+C0i-C0j+C0iou     	1025	774 
+C0er-C0l+C0ing    	764 	688 
+C0iou-C0n+C0ian   	491 	416 
+C0l-C0ing+C0i     	490 	413 
+sil-C0i+C0j       	482 	379 
+C0i-C0n+C0ian     	540 	376 
+C0l-C0ing+C0l     	456 	370 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	327 
+
+step: 86
+C0n-C0ian+sp      	1187	905 
+C0i-C0j+C0iou     	1025	774 
+C0er-C0l+C0ing    	764 	688 
+C0iou-C0n+C0ian   	491 	416 
+C0l-C0ing+C0i     	490 	413 
+sil-C0i+C0j       	482 	379 
+C0i-C0n+C0ian     	540 	376 
+C0l-C0ing+C0l     	456 	370 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	327 
+
+step: 87
+C0n-C0ian+sp      	1187	905 
+C0i-C0j+C0iou     	1025	771 
+C0er-C0l+C0ing    	764 	688 
+C0iou-C0n+C0ian   	491 	415 
+C0l-C0ing+C0i     	490 	413 
+sil-C0i+C0j       	482 	379 
+C0i-C0n+C0ian     	540 	375 
+C0l-C0ing+C0l     	456 	370 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	327 
+
+step: 88
+C0n-C0ian+sp      	1187	905 
+C0i-C0j+C0iou     	1025	771 
+C0er-C0l+C0ing    	764 	688 
+C0iou-C0n+C0ian   	491 	415 
+C0l-C0ing+C0i     	490 	413 
+sil-C0i+C0j       	482 	379 
+C0i-C0n+C0ian     	540 	375 
+C0l-C0ing+C0l     	456 	370 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	327 
+
+step: 89
+C0n-C0ian+sp      	1187	903 
+C0i-C0j+C0iou     	1025	771 
+C0er-C0l+C0ing    	764 	686 
+C0iou-C0n+C0ian   	491 	415 
+C0l-C0ing+C0i     	490 	412 
+sil-C0i+C0j       	482 	379 
+C0i-C0n+C0ian     	540 	375 
+C0l-C0ing+C0l     	456 	369 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	326 
+
+step: 90
+C0n-C0ian+sp      	1187	903 
+C0i-C0j+C0iou     	1025	771 
+C0er-C0l+C0ing    	764 	685 
+C0iou-C0n+C0ian   	491 	414 
+C0l-C0ing+C0i     	490 	412 
+sil-C0i+C0j       	482 	379 
+C0i-C0n+C0ian     	540 	375 
+C0l-C0ing+C0l     	456 	368 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	325 
+
+step: 91
+C0n-C0ian+sp      	1187	903 
+C0i-C0j+C0iou     	1025	771 
+C0er-C0l+C0ing    	764 	684 
+C0iou-C0n+C0ian   	491 	414 
+C0l-C0ing+C0i     	490 	412 
+sil-C0i+C0j       	482 	379 
+C0i-C0n+C0ian     	540 	374 
+C0l-C0ing+C0l     	456 	367 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	324 
+
+step: 92
+C0n-C0ian+sp      	1187	903 
+C0i-C0j+C0iou     	1025	765 
+C0er-C0l+C0ing    	764 	684 
+C0iou-C0n+C0ian   	491 	414 
+C0l-C0ing+C0i     	490 	412 
+sil-C0i+C0j       	482 	378 
+C0i-C0n+C0ian     	540 	373 
+C0l-C0ing+C0l     	456 	367 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	324 
+
+step: 93
+C0n-C0ian+sp      	1187	903 
+C0i-C0j+C0iou     	1025	764 
+C0er-C0l+C0ing    	764 	684 
+C0iou-C0n+C0ian   	491 	414 
+C0l-C0ing+C0i     	490 	412 
+sil-C0i+C0j       	482 	378 
+C0i-C0n+C0ian     	540 	373 
+C0l-C0ing+C0l     	456 	367 
+sil-C0er+C0l      	345 	335 
+C0ing-C0l+C0ing   	411 	324 
+
+step: 94
+C0n-C0ian+sp      	1187	903 
+C0i-C0j+C0iou     	1025	764 
+C0er-C0l+C0ing    	764 	682 
+C0iou-C0n+C0ian   	491 	414 
+C0l-C0ing+C0i     	490 	410 
+sil-C0i+C0j       	482 	378 
+C0i-C0n+C0ian     	540 	371 
+C0l-C0ing+C0l     	456 	367 
+sil-C0er+C0l      	345 	334 
+C0ing-C0l+C0ing   	411 	324 
+
